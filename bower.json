@@ -1,0 +1,30 @@
+{
+  "name": "angular-chat",
+  "version": "1.0.0",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angularjs",
+    "bootstrap",
+    "directive",
+    "chat"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": [
+    "src/scripts/index.js",
+    "src/css/style.css"
+  ],
+  "dependencies": {
+    "angular": "1.6.0",
+    "bootstrap": "~3.3.1",
+    "lodash": "2.4.x",
+    "angular-ui-router": "1.0.0"
+  }
+}
